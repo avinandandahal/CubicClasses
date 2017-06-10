@@ -1,0 +1,22 @@
+git init
+git status
+git add .
+git status
+git commit -m "Changes made by Avi"
+git config --global user.email "avidahal02@gmail.com"
+git config --global user.name "avinandandahal"
+git remote add origin https://github.com/avinandandahal/JavaClass.git
+git push origin
+git push --set-upstream origin avi
+
+
+
+git clone 'remote physical path'
+git diff
+git status
+git add . 
+git commit
+
+git checkout master
+git pull
+git merge mahesh
